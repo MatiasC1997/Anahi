@@ -1,7 +1,7 @@
 const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function () {
-    alert('Sabía que dirías que sí :D')
+          location.href="https://drive.google.com/file/d/1wf-qCCshRdtRwB4Z1jDSvaMA-_hQKnTz/view?usp=sharing"
 });
 
 const noBtn = document.querySelector('#noBtn');
